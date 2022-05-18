@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* Navbar */
+
+nav{
+    background-color: rgb(53, 58, 64);
+}
+
+
+
+/* Banner */
+
+.bg-overlay {
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("../img/ba1.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    color: #fff;
+    max-width: 2048px;
+    height: 650px;
+    padding-top: 50px;
+}
+
+
+
+
+
+/* Honolulu */
+
+.fondo{
+    background-image: url("../img/honolulu.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+.col-md-6{
+    background-color: #535864;
+}
+
+#honolulu h2{
+    margin: 25px;
+}
+
+#honolulu p{
+    margin: 25px;
+}
+
+#buttonh{
+    margin: 25px
+}
+
+
+/* Cardx3 */
+
+.cardx3{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+/* Formulario */
+
+.formulario{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.text-center .dotted{
+    border-bottom: 1px dotted;
+}
+
+.formulario .container-fluid{
+    width: 60%;
+}
+
+
+
+
+
+/* Footer */
+footer{
+    background-color: rgb(30, 72, 94);
+    padding: 20px;
+}
+
+
+
+/* cardx3 comprartickets.html */
+
+#card-descuento{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+
+/* Formulario-resumen */
+
+#form-resumen{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
